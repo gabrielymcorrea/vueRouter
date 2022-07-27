@@ -1,4 +1,6 @@
 # techno-cursos
+<p>Pequeno projeto realizo no curto de vue.js origamid para estudar vue-router.</p>
+<p>Para usabilidade abaixar  json-server e executar api.json que está na raiz do projeto.</p>
 
 ## Project setup
 ```
@@ -20,5 +22,10 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="./img/home.png" alt="Home"/>
+<br />
+
+<img src="./img/cursos.png" alt="Cursos"/>
+<br />
+
+<img src="./img/curso.png" alt="Curso"/>
